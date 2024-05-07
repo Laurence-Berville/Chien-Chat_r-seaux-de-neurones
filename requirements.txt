@@ -1,0 +1,14 @@
+# Bash 
+# Environnement\Scripts\activate
+keras
+pandas
+numpy
+matplotlib
+seaborn
+plotly.express
+tensorflow
+sklearn.preprocessing
+streamlit
+# pip install opencv-python
+# pip install pillow
+# pip install tensorflow
